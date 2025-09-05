@@ -1,0 +1,10 @@
+/* Subtle, readable defaults */
+html { font-size: 18px; }
+body { line-height: 1.6; max-width: 44rem; margin: 3rem auto; padding: 0 1rem; }
+h1, h2, h3 { line-height: 1.25; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+code, pre { font-size: 0.95em; }
+
+/* Minima already gives structure; this just refines spacing */
+section, article { margin-block: 2rem; }
